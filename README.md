@@ -1,5 +1,3 @@
-정리
-https://www.notion.so/09fa407963a546b8a21010df535ed01c?v=16f372f3fb324040b46f26509be45a38
 
 구현 : Tensorflow
 
