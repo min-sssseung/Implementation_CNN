@@ -13,3 +13,6 @@ https://arxiv.org/pdf/1409.4842.pdf
 
 - Resnet : Deep Residual Learning for Image Recognition
 https://arxiv.org/pdf/1512.03385.pdf
+
+- Transfer Learning : 참고 강의 https://www.youtube.com/watch?v=yofjFQddwHE , 
+https://www.youtube.com/watch?v=uTk0KbK1948
