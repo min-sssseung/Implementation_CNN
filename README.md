@@ -10,3 +10,6 @@ https://arxiv.org/pdf/1409.1556.pdf
 
 - GoogleNet : Going deeper with convolutions
 https://arxiv.org/pdf/1409.4842.pdf
+
+- Resnet : Deep Residual Learning for Image Recognition
+https://arxiv.org/pdf/1512.03385.pdf
