@@ -16,3 +16,6 @@ https://arxiv.org/pdf/1512.03385.pdf
 
 - Transfer Learning : 참고 강의 https://www.youtube.com/watch?v=yofjFQddwHE , 
 https://www.youtube.com/watch?v=uTk0KbK1948
+
+- SqueezeNet : ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE
+https://arxiv.org/abs/1602.07360
